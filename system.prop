@@ -18,6 +18,9 @@ persist.radio.use.legacy.emergency.query=true
 ## Media
 media.settings.xml=/vendor/etc/media_profiles_vendor.xml
 
+# Radio
+persist.sys.fflag.override.settings_provider_model=false
+
 ## Rotation
 persist.demo.hdmirotationlock=false
 
